@@ -86,6 +86,13 @@ declare global {
                         }
                     },
                     {
+                        table: 'sys_user_role'
+                        id: '607c57901382495a875050c260b627a0'
+                        key: {
+                            name: 'x_1919665_now_test.response_task_user'
+                        }
+                    },
+                    {
                         table: 'sys_documentation'
                         id: '61a22cea9dd74f09964961f17da8840e'
                         key: {
